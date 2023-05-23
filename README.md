@@ -1,16 +1,8 @@
-```yml
-ageVersion: v18
-kind: Human
-metadata:
-  name: Enzo Venturi
-  labels:
-    role: DevOps Trainee
-    hyperlink:
-      - <https://sr.ht/~nzv>
-      - <https://linkedin.com/in/enzoventuri>
-    mail: zventuri@tuta.io
-spec:
-  default:
-    editor: nvim
-    os: Gentoo Linux
+```txt
+panic: Pseudo account. Go to <https://sr.ht/~nzv> instead.
+
+goroutine 1 [running]:
+main.main()
+	/home/nzv/http.go:4 +0x27
+exit status 2
 ```
